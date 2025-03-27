@@ -14,7 +14,8 @@ Características del Script
 
 Abre una terminal y navega al directorio donde se encuentra el script
 ```bash
-cd /[archivo]
+git clone https://github.com/Vermis1/transferencia_archivos  
+cd transferencia_archivos 
 sudo python script.py
 ```
     
